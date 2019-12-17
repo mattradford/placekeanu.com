@@ -42,4 +42,4 @@ Redistributed under the MIT License. Check out the original and _whoah_ cooler [
 
 ---
 
-Thanks for checking out my project! _Now you're hot-to-trot_.
+Thanks for checking out my project! _Now you're hot-to-trot_. :horse:
