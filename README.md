@@ -38,7 +38,7 @@ If you found a bug that needs fixing, or have a feature you want to discuss or i
 ## License
 All images of human(s) wearing an uncomfortable latex horse head mask belong to their respective owners. See the full [human(s) wearing an uncomfortable latex horse head mask list](https://horsehead.me/uncomfortable-humans) for photo attributions.
 
-Redistributed under the MIT License. Check out the original and _whoah_ cooler [PlaceKeanu.com](https://placekeanu.com) by [Alexander Sandberg](https://github.com/alexandersandberg)
+Distributed under the MIT License. Check out the original and _whoah_ cooler [PlaceKeanu.com](https://placekeanu.com) by [Alexander Sandberg](https://github.com/alexandersandberg)
 
 ---
 
