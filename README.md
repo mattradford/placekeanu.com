@@ -1,35 +1,29 @@
 ![Keanu Reeves](dist/preview.jpg)
 
 
-# PlaceKeanu.com
-*For when you need a little more Keanu in your life*
+# HorseHead.me
+*This wasn't even done for a bet*
 
 <a href="https://www.producthunt.com/posts/placekeanu?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-placekeanu" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=160684&theme=dark" alt="PlaceKeanu - For when you need a little more Keanu in your life | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
-## How to use this *lifechanging* service
-Simply paste a link in this format, wherever you need him:
+## How to use this *completely hilarious* service
+Simply paste a link in this format, wherever you need human(s) wearing an uncomfortable latex horse head mask:
 
-`https://placekeanu.com/[width]/[height]*/[options]*`<br>
+`https://horsehead.me/[width]/[height]*/[options]*`<br>
 (* optional)
 
-If you don't specify a height, you'll get a **square** Keanu...<br>
-...shape-wise, that is, because Keanu is always mindblowingly awesome.
+If you don't specify a height, you'll get a **square** human(s) wearing an uncomfortable latex horse head mask.<br>
 
 ## Available [options]
-* Young Keanus only: `y`
 * Grayscale: `g`
 
-*Note: Some Keanus are grayscale by default.*
-
 ## Some examples
-* Any Keanu: [https://placekeanu.com/200/150](https://placekeanu.com/200/150)
-* Young Keanu: [https://placekeanu.com/500/300/y](https://placekeanu.com/500/300/y)
-* Square + Grayscale: [https://placekeanu.com/250/g](https://placekeanu.com/250/g)
-* Young + Grayscale: [https://placekeanu.com/300/550/yg](https://placekeanu.com/300/550/yg)
+* Any Keanu: [https://horsehead.me/200/150](https://horsehead.me/200/150)
+* Square + Grayscale: [https://horsehead.me/250/g](https://horsehead.me/250/g)
 
 If you, for instance, need a little more Keanu in your website projects, you can include him with an \<img\>:
 
-`<img src="https://placekeanu.com/450" alt="">`
+`<img src="https://horsehead.me/450" alt="">`
 
 ## How does it work?
 When you send a valid request to this website, a random photo of [Keanu Reeves](https://en.wikipedia.org/wiki/Keanu_Reeves) is displayed.
@@ -42,10 +36,10 @@ While some placeholder image websites dynamically create new images, this servic
 If you found a bug that needs fixing, or have a feature you want to discuss or implement, feel free to open an issue or a pull request. Any contribution is appreciated, big or small!
 
 ## License
-All Keanus belong to their respective owners. See the full [Keanu list](https://placekeanu.com/keanus) for photo attributions.
+All images of human(s) wearing an uncomfortable latex horse head mask belong to their respective owners. See the full [human(s) wearing an uncomfortable latex horse head mask list](https://horsehead.me/uncomfortable-humans) for photo attributions.
 
-Distributed under the MIT License © [Alexander Sandberg](https://github.com/alexandersandberg)
+Redistributed under the MIT License. Check out the original and _whoah_ cooler [PlaceKeanu.com](https://placekeanu.com) by [Alexander Sandberg](https://github.com/alexandersandberg)
 
 ---
 
-Thanks for checking out my project! _You're breathtaking_. ❤️
+Thanks for checking out my project! _Now you're hot-to-trot_.
