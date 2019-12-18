@@ -4,8 +4,8 @@
   functions = "functions"
 
 [[redirects]]
-  from = "https://placekeanu.netlify.com/*"
-  to = "https://placekeanu.com/:splat"
+  from = "https://horseheadme.netlify.com/*"
+  to = "https://horsehead.me/:splat"
   status = 301
   force = true
 
@@ -16,8 +16,8 @@
   force = false
 
 [[redirects]]
-  from = "/keanus"
-  to = "/keanus"
+  from = "/uncomfortable-humans"
+  to = "/uncomfortable-humans"
   status = 200
   force = false
 
