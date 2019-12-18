@@ -16,22 +16,23 @@ If you don't specify a height, you'll get a **square** human(s) wearing an uncom
 * Grayscale: `g`
 
 ## Some examples
-* Any Keanu: [https://horsehead.me/200/150](https://horsehead.me/200/150)
+* Any image: [https://horsehead.me/200/150](https://horsehead.me/200/150)
+* Grayscale: [https://horsehead.me/350/550/g](https://horsehead.me/350/550/g)
 * Square + Grayscale: [https://horsehead.me/250/g](https://horsehead.me/250/g)
 
-If you, for instance, need a little more Keanu in your website projects, you can include him with an \<img\>:
+If you, for instance, need a little more human(s) wearing an uncomfortable latex horse head mask in your website projects, you can include them with an \<img\>:
 
 `<img src="https://horsehead.me/450" alt="">`
 
 ## How does it work?
-When you send a valid request to this website, a random photo of [Keanu Reeves](https://en.wikipedia.org/wiki/Keanu_Reeves) is displayed.
+When you send a valid request to this website, a random photo of [human(s) wearing an uncomfortable latex horse head mask](https://en.wikipedia.org/wiki/Horse_head_mask) is displayed.
 
-The photos are cached on your end for 1 day, which is why you don't get a new Keanu on every page load.
+The photos are cached on your end for 1 day, which is why you don't get a new one on every page load.
 
 While some placeholder image websites dynamically create new images, this service is SVG-based. For this to work properly, all photos have been encoded to Base64.
 
 ## Contributing
-If you found a bug that needs fixing, or have a feature you want to discuss or implement, feel free to open an issue or a pull request. Any contribution is appreciated, big or small!
+If you found a bug that needs fixing, or have a feature you want to discuss or implement, feel free to open an issue or a pull request. I mean honestly though, I may not reply. It's hard to type when you're a human wearing an uncomfortable latex horse head mask.
 
 ## License
 All images of human(s) wearing an uncomfortable latex horse head mask belong to their respective owners. See the full [human(s) wearing an uncomfortable latex horse head mask list](https://horsehead.me/uncomfortable-humans) for photo attributions.
