@@ -1,10 +1,8 @@
-![Keanu Reeves](dist/preview.jpg)
+![human(s) wearing an uncomfortable latex horse head mask](dist/preview.jpg)
 
 
 # HorseHead.me
 *This wasn't even done for a bet*
-
-<a href="https://www.producthunt.com/posts/placekeanu?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-placekeanu" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=160684&theme=dark" alt="PlaceKeanu - For when you need a little more Keanu in your life | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
 ## How to use this *completely hilarious* service
 Simply paste a link in this format, wherever you need human(s) wearing an uncomfortable latex horse head mask:
